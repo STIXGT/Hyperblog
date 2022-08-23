@@ -1,10 +1,7 @@
 Esta es la historia de Stiven Guanoquiza 
+
 Stiven Guanoquiza tiene 18 años y nacio en Ecuador 
 
-<<<<<<< HEAD
-Mañana nos enfocaremos en su vida laboral.
-=======
-Rolando tiene 40 años de edad y nacio en Saquisili
+Rolando es una persona que contribuye a este proyecto open source y nació en Saquisili
 
 Mañana nos enfocaremos en su vida laboral.
->>>>>>> 3e8f7ba692ca498be84e6d87346b2cc6380c9ee1
